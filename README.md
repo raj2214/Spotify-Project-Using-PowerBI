@@ -28,11 +28,11 @@ Visualizations help in understanding artist performance and user engagement tren
 
 How to Use
 
-Open Spotify_PowerBI_Analysis_Project.pbix in Power BI.
+1. Open Spotify_PowerBI_Analysis_Project.pbix in Power BI.
 
-Explore the dashboards to analyze key insights.
+2. Explore the dashboards to analyze key insights.
 
-Interact with filters and visuals to explore specific trends.
+3. Interact with filters and visuals to explore specific trends.
 
 Tools & Technologies Used
 
